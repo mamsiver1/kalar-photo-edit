@@ -1,0 +1,8 @@
+{
+  "name": "Kalar Edit",
+  "description": "ئەپی پێشکەوتووی دەستکاریکردنی وێنە و ڕێبەری گشتگیری فۆتۆشۆپ بە کوردی لەلایەن SIVER IT",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
